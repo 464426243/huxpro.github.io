@@ -1,15 +1,14 @@
 ---
-title: "「SF-LC」2 Induction"
-subtitle: "Logical Foundations - Proof by Induction"
-layout: post
-author: "Hux"
-header-style: text
-hidden: true
+layout:     post
+title:      "Hello 2015"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
-  - LF (逻辑基础)
-  - SF (软件基础)
-  - Coq
-  - 笔记
+    - Life
+    - Meta
 ---
 # java字符串常量池引起的神奇问题
 
