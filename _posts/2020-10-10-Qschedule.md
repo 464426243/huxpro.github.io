@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      浅谈分布式调用组件Qschedule
+title:      分布式调用组件Qschedule介绍
 author:     "冬至未"
 header-style: text
 tags:
